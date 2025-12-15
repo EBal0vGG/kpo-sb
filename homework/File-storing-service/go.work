@@ -1,0 +1,13 @@
+go 1.22.2
+
+use (
+	file-analysis
+	file-store
+	gateway
+	pkg/config
+	pkg/httpx
+	pkg/logger
+)
+
+
+
